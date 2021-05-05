@@ -49,7 +49,7 @@ Data_Tables_Criminal_Incidents_Visualisation_Year_Ending_December_2019 <- read_c
 data <- Data_Tables_Criminal_Incidents_Visualisation_Year_Ending_December_2019
 # cant create a graph so soon, testing
 ```
-```
+
 
 
 \clearpage
