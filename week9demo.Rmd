@@ -40,6 +40,18 @@ header-includes:
 
 # Section 2
 
+```{r}
+library(readr)
+Data_Tables_Criminal_Incidents_Visualisation_Year_Ending_December_2019 <- read_csv("Data_Tables_Criminal_Incidents_Visualisation_Year_Ending_December_2019.csv")
+```
+
+```{r}
+data <- Data_Tables_Criminal_Incidents_Visualisation_Year_Ending_December_2019
+# cant create a graph so soon so yeah testing
+
+```
+```
+
 
 \clearpage
 
